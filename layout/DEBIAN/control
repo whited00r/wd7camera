@@ -1,0 +1,9 @@
+Package: com.whited00r.wd7camera
+Name: WD7Camera
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Tweak that camera to be nice looking :)
+Maintainer: whited00r
+Author: whited00r
+Section: Tweaks

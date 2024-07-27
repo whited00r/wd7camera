@@ -1,0 +1,1 @@
+{ Filter = { Bundles = ( "com.apple.springboard", "com.apple.PhotoLibrary", "com.apple.MusicLibrary", "com.apple.musiclibrary" ); }; }
